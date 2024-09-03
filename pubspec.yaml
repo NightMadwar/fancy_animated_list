@@ -1,6 +1,6 @@
 name: fancy_animated_list
 description: A Flutter package providing customizable and animated list views with smooth transitions.
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/nightmadwar/fancy_animated_list
 
 environment:

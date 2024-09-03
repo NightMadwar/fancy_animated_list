@@ -1,0 +1,82 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.buildlog/
+.history
+.svn/
+migrate_working_dir/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# VS Code related
+.vscode/
+
+# Flutter/Dart/Pub related
+# Libraries should not include pubspec.lock, per https://dart.dev/guides/libraries/private-files#pubspeclock.
+/pubspec.lock
+**/doc/api/
+.dart_tool/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.flutter-credentials
+.pub-cache
+.flutter/
+
+# Generated files
+generated_plugin_registrant.dart
+coverage/
+
+# Web related
+.dart_tool/
+build/
+web/.sass-cache/
+web/.dart_tool/
+web/main.dart.js
+web/main.dart.js.map
+web/flutter_service_worker.js
+web/index.html
+web/favicon.png
+web/icons/Icon-192.png
+web/icons/Icon-512.png
+web/manifest.json
+
+# macOS related
+macos/Pods/
+macos/Flutter/ephemeral/
+
+# Linux related
+linux/flutter/ephemeral/
+linux/obj/
+linux/.cmake/
+
+# Windows related
+windows/flutter/ephemeral/
+windows/.vs/
+windows/CMakeFiles/
+windows/Flutter/ephemeral/
+
+# Android related
+android/.cxx/
+android/app/build/
+
+# iOS related
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Flutter.framework/
+ios/Flutter/Flutter.podspec
+
+# Firebase related
+firebase_app_id_file.json
+
+# Package config file
+.packages
